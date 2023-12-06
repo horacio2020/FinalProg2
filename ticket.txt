@@ -1,0 +1,4 @@
+marca: Motorola
+modelo: G52
+descripción: 128GB 6GB RAM cam 50mpx
+precio: $150000
